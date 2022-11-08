@@ -75,5 +75,10 @@ namespace TabeladePeso
                 lbl_resultado.Text = "Erro em calcular o IMC";
             }
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
